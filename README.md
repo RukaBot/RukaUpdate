@@ -1,5 +1,5 @@
-## NAMA BOT
-BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
+## RUKA BOT
+Virtual GirlFriend Iky
 
 
 
